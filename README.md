@@ -1,0 +1,1 @@
+Implemented a system that reduced congestion by 25%, allotting green light time using a pre-determined formula which prioritized emergency vehicles, and displayed results on Arduino-driven LED arrays.
